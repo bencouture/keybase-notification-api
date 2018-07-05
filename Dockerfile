@@ -1,5 +1,5 @@
 FROM bencouture/keybase
-LABEL maintainer "bencouture (https://keybase.io/bencouture")
+LABEL maintainer "bencouture (https://keybase.io/bencouture)"
 
 COPY * /home/keybase/
 
